@@ -76,7 +76,7 @@ You _must_ register application in Drill4J Admin UI. This is _one-time_ procedur
 4. Registration is a 3-step process:
 
     1. Step 1 - leave everything "as-is" and press `Next` button
-    2. Step 2 - enter package filter in the `Application Packages` field; Press `Next` button
+    2. Step 2 - enter package filter in the `Application Packages` field (use the most common top-level package specific to your application); Press `Next` button
         ![step1](./img/step-2.jpg)
     3. Step 3 - make sure there is a checkmark next to `Test2Code Plugin` entry and press "finish"
         ![step2](./img/step-3.jpg)
